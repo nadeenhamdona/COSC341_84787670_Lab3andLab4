@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView + Maps</string>
+    <string name="google_maps_key">AIzaSyA1vRp2snVtOVEDQPy9sAcU6bmdJVI7zPo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
